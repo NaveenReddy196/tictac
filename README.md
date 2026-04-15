@@ -27,16 +27,7 @@ It allows two players to play the classic X vs O game with a clean UI and smooth
 
 ## 📸 Screenshots
 
-(Add your app screenshots here)
 
-Example:
-
-```
-![Home Screen](assets/screenshots/home.png)
-![Game Screen](assets/screenshots/game.png)
-```
-
----
 
 ## 🚀 Getting Started
 
